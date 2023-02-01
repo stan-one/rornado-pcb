@@ -1,0 +1,31 @@
+Collated Components:,,,,,,
+,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,PN
+1,1,C1,10uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,CL10A106MA8NRNC
+2,1,C2,22uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,CL10A226MQ8NRNC
+3,5,"C3, C5, C7, C8, C9",100nF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,CC0603KRX7R9BB104
+4,1,C4,1uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,CL10A105KB8NNNC
+5,1,C6,10nF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,0603B103K500NT
+6,2,"C10, C11",4.7uF,Device:C_Small,Capacitor_SMD:C_0603_1608Metric,CL10A475KO8NNNC
+7,4,"D1, D2, D3, D6",RED L,Device:LED_Small,LED_SMD:LED_0603_1608Metric,KT-0603R
+8,6,"D4, D5, D7, D8, D9, D10",SM4007PL,Device:D_Small,Diode_SMD:D_SOD-123F,SM4007PL
+9,2,"F1, F2",Fuse_Small,Device:Fuse_Small,Fuse:Fuse_0805_2012Metric,TODO
+10,1,J1,LED_STRIP_12V,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,PZ254-1-03-W-8.5
+11,1,J2,SWD DEBUGG,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical,20021111-00010T4LF
+12,1,J3,LED_STRIP_5V,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,PZ254-1-03-W-8.5
+13,1,J4,USB PIN ,Connector_Generic:Conn_02x05_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Horizontal,A2541WR-2x5P
+14,1,J5,350211-1,Connector_Generic:Conn_01x04,TerminalBlock:TerminalBlock_bornier-4_P5.08mm,350211-1
+15,1,J6,PUMP,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,PZ254-1-03-W-8.5
+16,2,"J7, J8",GEN_SWITCH_5V,Connector_Generic:Conn_01x02,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal,B-2100S02P-A110
+17,4,"J9, J11, J14, J15",CONN_FAN,Connector_Generic:Conn_01x04,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Horizontal,    PZ254-1-04-W-8.5
+18,4,"J10, J12, J13, J16",RGB_FAN_1,Connector_Generic:Conn_01x03,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal,PZ254-1-03-W-8.5
+19,6,"Q1, Q2, Q3, Q4, Q5, Q6",2N7002,Transistor_FET:2N7002,Package_TO_SOT_SMD:SOT-23,2N7002
+20,5,"R1, R2, R3, R6, R9",10K,Device:R_Small,Resistor_SMD:R_0603_1608Metric,0603WAF510KT5E
+21,1,R4,1.5K,Device:R_Small,Resistor_SMD:R_0603_1608Metric,0603WAF1501T5E
+22,1,R5,470,Device:R_Small,Resistor_SMD:R_0603_1608Metric,0603WAF4700T5E
+23,2,"R7, R8",220,Device:R_Small,Resistor_SMD:R_0603_1608Metric,0603WAF2200T5E
+24,1,TH1,BOARD_TEMP,Device:Thermistor_NTC,Resistor_SMD:R_0603_1608Metric,NCP18XH103F03RB
+25,4,"TP1, TP2, TP3, TP4",TestPoint,Connector:TestPoint_Probe,TestPoint:TestPoint_Pad_D1.5mm,NONE
+26,3,"U1, U2, U3",RS0102YH8,RS0102YH8:RS0102YH8,Package_TO_SOT_SMD:SOT-23-8,RS0102YH8
+27,1,U4,AMS1117-3.3,Regulator_Linear:AZ1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,AMS1117-3.3
+28,1,U5,STM32F072C8Tx,MCU_ST_STM32F0:STM32F072C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm,STM32F072C8T6
